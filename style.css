@@ -6,5 +6,8 @@ h1 {
   font-style: italics;
 }
 
-li {
+.job {
+  font-family: Georgia serif;
+  font-size: 18px;
+  color: DodgerBlue;
 }
