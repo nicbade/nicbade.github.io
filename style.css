@@ -9,3 +9,19 @@ h1 {
 .job {
   font-family: Georgia serif;
 }
+
+.nbadeinfo {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 30px;
+}
+
+.ed {
+  border: 2px dashed black;
+  text-align: center;
+}
+
+.workex {
+  border: 1px dotted blue;
+  text-align: center;
+}
