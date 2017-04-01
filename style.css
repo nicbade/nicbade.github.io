@@ -12,16 +12,16 @@ h1 {
 
 .nbadeinfo {
   border: 1px solid #000;
-  text-align: center;
+  text-align: right;
   padding: 30px;
 }
 
 .ed {
-  border: 2px dashed black;
-  text-align: center;
+  border: 2px solid black;
+  text-align: right;
 }
 
 .workex {
-  border: 1px dotted blue;
-  text-align: center;
+  border: 1px solid blue;
+  text-align: right;
 }
