@@ -2,6 +2,11 @@
 font-family: Helvetica;
 }
 
+.chip {
+  height: 200px;
+  width: 400px;
+}
+
 h1 {
   font-style: italics;
 }
