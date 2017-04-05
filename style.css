@@ -21,6 +21,9 @@ h1 {
 
 .ed {
   border-top: solid black;
+  background-color: violet;
+  padding: 12px;
+  font-family: cursive;
 }
 
 .workex {
