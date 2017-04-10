@@ -2,10 +2,9 @@
 font-family: Helvetica;
 }
 
-img {
-  height: 200px;
-  width: 400px;
-  border: 2px solid blue;
+.chip {
+  background: url(nicbade.github.io/CHIP DRINKIN.jpg);
+  display: cover;
 }
 
 h1 {
@@ -17,6 +16,7 @@ h1 {
 }
 
 .nbadeinfo {
+  
 }
 
 .ed {
