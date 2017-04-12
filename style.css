@@ -6,6 +6,11 @@ font-family: Helvetica;
   text-align: center;
 }
 
+.header .container {
+  position: relative;
+  top: 200px;
+}
+
 .header h1 {
   margin: 0 auto;
   position: relative;
@@ -13,6 +18,7 @@ font-family: Helvetica;
   text-transform: uppercase;
   top: 44px;
   background: url(nicbade.github.io/CHIP DRINKIN.jpg);
+  background-size: cover;
 
 }
 
