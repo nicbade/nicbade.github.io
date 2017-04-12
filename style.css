@@ -37,3 +37,7 @@ max-width: 900px;
   font-size: 25px;
   text-align: center;
 }
+
+.education .college {
+  display: inline;
+}
