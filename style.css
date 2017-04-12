@@ -24,7 +24,7 @@ font-family: Helvetica;
 .ed li  {
   background: black;
   color: white;
-  display: inline-block;
+  display: inline;
   padding: 5px;
 }
 
