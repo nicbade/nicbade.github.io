@@ -45,4 +45,5 @@ max-width: 900px;
 
 .fancy {
   background: url(nicbade.github.io/CHIP DRINKIN.jpg);
+  background-size: cover;
 }
