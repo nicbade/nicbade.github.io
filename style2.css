@@ -1,1 +1,20 @@
+* {
+  font-family: helvetica, sans-serif;
+}
 
+.container {
+max-width: 900px;
+}
+
+.nicholas h1 {
+  font-size: 60px;
+  font-weight: 100;
+  margin-bottom: 20px;
+  background: url(https://pbs.twimg.com/media/CtU_eQ1UMAAGu2l.jpg);
+  height: 550px;
+  padding-top: 50px;
+}
+
+.nicholas p {
+  font-size: 48px;
+}
