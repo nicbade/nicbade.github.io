@@ -11,6 +11,7 @@ max-width: 900px;
   font-weight: 100;
   margin-bottom: 20px;
   background: url(https://pbs.twimg.com/media/CtU_eQ1UMAAGu2l.jpg);
+  background-size: cover;
   height: 550px;
   padding-top: 50px;
 }
