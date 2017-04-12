@@ -29,6 +29,11 @@ max-width: 900px;
   padding-left: 300px;
 }
 
+.education .row {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #dbdbdb;
+}
 .education h1 {
   font-size: 35px;
   text-align: center;
