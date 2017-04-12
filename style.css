@@ -39,8 +39,8 @@ max-width: 900px;
   text-align: center;
 }
 
-.education .college {
-
+.education .container {
+  max-width: 900px;
 }
 
 .fancy {
