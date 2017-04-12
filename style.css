@@ -6,12 +6,15 @@
 max-width: 900px;
 }
 
+.nicholas {
+  background: url(https://pbs.twimg.com/media/CtU_eQ1UMAAGu2l.jpg);
+  background-size: cover;
+}
+
 .nicholas h1 {
   font-size: 60px;
   font-weight: 100;
   margin-bottom: 20px;
-  background: url(https://pbs.twimg.com/media/CtU_eQ1UMAAGu2l.jpg);
-  background-size: cover;
   height: 550px;
   padding-top: 50px;
 }
