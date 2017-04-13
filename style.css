@@ -13,8 +13,9 @@
   border-top: 1px solid;
 }
 
-#smog {
+.smog {
   float: right;
   height: 60px;
   width: 40px;
+  background: url(nicbade.github.io/Smogkiller.jpg);
 }
