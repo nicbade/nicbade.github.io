@@ -1,54 +1,14 @@
 * {
-  font-family: Raleway, sans-serif;
+  font-family: lucida grande;
 }
 
-.container {
-max-width: 900px;
+.name {
+  font-size: 36px;
+  text-transform: bold;
 }
 
-.nicholas {
-  background: url(nicbade.github.io/Fogkiller.jpg);
-  background-size: cover;
-  height: 470px;
-  padding-top: 50px;
-}
-
-.nicholas h1 {
-  font-size: 60px;
-  font-weight: 100;
-  text-align: center;
-  padding-top: 50px;
-  padding-left: 300px;
-  color: white;
-  text-transform: uppercase;
-}
-
-.nicholas p {
-  font-size: 48px;
-  text-align: center;
-  padding-left: 300px;
-}
-
-.education .row {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  border-bottom: 1px solid #dbdbdb;
-}
-.education h1 {
-  font-size: 35px;
-  text-align: center;
-}
-
-.education p {
-  font-size: 25px;
-  text-align: center;
-}
-
-.education .container {
-  max-width: 900px;
-}
-
-.fancy {
-  background: url(nicbade.github.io/CHIP DRINKIN.jpg);
-  background-size: cover;
+.contact {
+  height: 300px;
+  width: 800px;
+  border-top: 1px solid;
 }
