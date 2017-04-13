@@ -17,7 +17,7 @@
 .contact p {
   line-height: 60%;
   padding: -3px;
-  margin 25px;
+  margin: 25px;
 
 }
 
@@ -30,4 +30,8 @@
   width: 150px;
   border: 1px solid white;
   border-radius: 10%;
+}
+
+.education h1 p {
+  margin: 25px;
 }
