@@ -10,9 +10,11 @@
 
 .contact {
   height: 300px;
-  width: 800px;
-  line-height: 90%;   
-  
+  width: 800px;  
+}
+
+.contact p {
+  line-height: 80%;
 }
 
 #smog {
