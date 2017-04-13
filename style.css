@@ -5,6 +5,7 @@
 .name {
   font-size: 24px;
   text-transform: bold;
+  padding-bottom: -10px;
 }
 
 .contact {
@@ -16,7 +17,7 @@
 #smog {
   float: right;
   position: absolute;
-  top: 35px;
+  top: 45px;
   right: 55px;
   height: 150px;
   width: 120px;
