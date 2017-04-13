@@ -13,7 +13,7 @@
   
 }
 
-.smog {
+#smog {
   float: right;
   position: absolute;
   top: 35px;
@@ -21,4 +21,4 @@
   height: 60px;
   width: 40px;
   border: 1px solid white;
-]}
+}
