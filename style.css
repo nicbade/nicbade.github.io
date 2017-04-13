@@ -3,7 +3,8 @@
 }
 
 hr {
-  margin: 20px;
+  margin-left: 20px;
+  margin-right: 60px;
 }
 
 h2 {
@@ -38,6 +39,6 @@ h2 {
   border-radius: 10%;
 }
     /* Education info */
-.education h1 p {
+.education h2 p {
   margin: 25px;
 }
