@@ -12,12 +12,13 @@
 .contact {
   height: 300px;
   width: 800px; 
-  margin 25px;
 }
 
 .contact p {
   line-height: 60%;
   padding: -3px;
+  margin 25px;
+
 }
 
 #smog {
