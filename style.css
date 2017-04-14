@@ -70,6 +70,15 @@ p {
   width: 400px
 }
 
+.fridays {
+  border: 1px solid white;
+  background: black;
+  color: white;
+  padding: 5px;
+  border-radius: 15px 50px 30px;
+  width: 400px
+}
+
 ul li {
   line-height: 1;
 }
