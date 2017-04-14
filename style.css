@@ -51,6 +51,10 @@ p {
   line-height: 1;
 }
 
+.ward .caribou {
+  border-bottom: 1px solid;
+}
+
 ul li {
   line-height: 1;
 }
