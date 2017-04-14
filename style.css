@@ -54,4 +54,5 @@ p {
 .dates {
   text-align: right;
   float: right;
+  display: inline;
 }
