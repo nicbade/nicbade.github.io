@@ -46,6 +46,9 @@ p {
     /* Education info */
 .education {
   line-height: 1.5;
+}
+
+.augsburg {
   border: 1px solid white;
   background: black;
   color: white;
@@ -53,7 +56,8 @@ p {
   border-radius: 15px 50px 30px;
   width: 400px
 }
-    /* Work info */
+
+/* Work info */
 .work {
   line-height: 1.5;
 }
