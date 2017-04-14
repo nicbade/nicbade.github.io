@@ -1,7 +1,5 @@
 * {
-  font-family:  tahoma serif;
-  margin: 40px
-    
+  font-family:  tahoma serif;    
 }
 
 hr {
@@ -12,6 +10,7 @@ hr {
 h2 {
   font-size: 18px;
   text-transform: bold;
+  margin: 25px;
 }
 
     /* Header */
