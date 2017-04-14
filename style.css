@@ -43,6 +43,14 @@ p {
   border-radius: 10%;
 }
     /* Education info */
-.education h2 p {
-  margin: 25px;
+.education {
+}
+    /* Work info */
+.work {
+
+}
+
+.dates {
+  text-align: right;
+  display: inline;
 }
