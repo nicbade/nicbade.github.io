@@ -37,7 +37,6 @@ p {
     /* Picture */
 #smog {
   float: right;
-  position: relative;
   top: 45px;
   right: 55px;
   height: 180px;
