@@ -21,6 +21,7 @@ h2 {
 }
     /* Contact info */
 .contact { 
+  margin: 25px;
 }
 
 .contact p {
