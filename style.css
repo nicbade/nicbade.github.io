@@ -47,7 +47,7 @@ p {
 }
     /* Work info */
 .work {
-  line-height: 1;
+  line-height: .5;
 }
 
 .dates {
