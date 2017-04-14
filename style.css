@@ -26,10 +26,10 @@ p {
     /* Contact info */
 .contact { 
   margin: 25px;
+  line-height: 1.5;
 }
 
 .contact p {
-  line-height: 2;
   margin: 25px;
 }
     /* Picture */
@@ -45,10 +45,11 @@ p {
 }
     /* Education info */
 .education {
+  line-height: 1.5;
 }
     /* Work info */
 .work {
-  line-height: 1;
+  line-height: 1.5;
 }
 
 .ward .caribou {
