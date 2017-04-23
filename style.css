@@ -56,7 +56,8 @@ p {
   color: white;
   padding: 10px;
   border-radius: 15px 50px 30px;
-  width: 400px
+  width: 400px;
+  margin-left: 20px;
 }
 
 /* Work info */
