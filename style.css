@@ -50,7 +50,8 @@ p {
   line-height: 1.5;
 }
 
-.augsburg {
+    /* Work and Education headings */
+.workhistory {
   border: 1px solid white;
   background: black;
   color: white;
@@ -63,42 +64,6 @@ p {
 /* Work info */
 .work {
   line-height: 1.5;
-}
-
-.ward {
-  border: 1px solid white;
-  background: black;
-  color: white;
-  padding: 10px;
-  border-radius: 15px 50px 30px;
-  width: 400px
-}
-
-.caribou {
-  border: 1px solid white;
-  background: black;
-  color: white;
-  padding: 10px;
-  border-radius: 15px 50px 30px;
-  width: 400px
-}
-
-.fridays {
-  border: 1px solid white;
-  background: black;
-  color: white;
-  padding: 10px;
-  border-radius: 15px 50px 30px;
-  width: 400px
-}
-
-.andrews {
-  border: 1px solid white;
-  background: black;
-  color: white;
-  padding: 10px;
-  border-radius: 15px 50px 30px;
-  width: 400px
 }
 
 ul li {
