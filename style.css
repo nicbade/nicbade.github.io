@@ -58,7 +58,8 @@ p {
   padding: 10px;
   border-radius: 15px 50px 30px;
   width: 400px;
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
 }
 
 /* Work info */
@@ -71,5 +72,5 @@ ul li {
 }
 
 .footer {
-  padding: 20px;
+  padding: 40px;
 }
